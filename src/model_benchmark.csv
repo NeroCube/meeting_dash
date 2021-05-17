@@ -1,0 +1,6 @@
+model,test year,vaild,test,weekly_acc,mothly_acc,source
+Nero_RandomForestRegressor_v1,2016,0.69,15.45,0.558,0.727,mst_v2_20210517.csv
+Nero_RandomForestRegressor_v1,2017,0.82,9.888,0.451,0.636,mst_v2_20210517.csv
+Nero_RandomForestRegressor_v1,2018,0.961,13.345,0.529,0.727,mst_v2_20210517.csv
+Nero_RandomForestRegressor_v1,2019,1.091,9.529,0.529,0.909,mst_v2_20210517.csv
+Nero_RandomForestRegressor_v1,2020,1.095,10.428,0.529,0.818,mst_v2_20210517.csv
